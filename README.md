@@ -1,5 +1,22 @@
-# Trybers-And-Dragons-RPG
-Neste projeto foi desenvolvido os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game)
+## 🎲 Trybers and Dragons 🐉
 
-## Stack utilizada
-Back-end: Javascript, Typescript, Node.js, POO, SOLID, Docker
+### <strong>💻 Sobre</strong>
+Esse projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe durante o módulo de back-end, o objetivo era criar um jogo de RPG estilo Dungeons and Dragons utilizando POO e Solid.
+
+---
+
+### <strong>🖱️ Tecnologias Utilizadas</strong>
+* TypeScript
+* OOP (Object-Oriented Programming)
+* SOLID
+---
+
+### <strong>📔 Habilidades</strong>
+
+  - Criar classes e classes e métodos abstratas;
+
+  - Definir types e interfaces;
+
+  - Utilizar conceitos de POO como: Abstração, Encapsulamento, Herança, Composição e Polimorfismo;
+  
+  - Utilizar princípios de SOLID como: Responsabilidade Única, Aberto/Fechado, Inversão de dependência, Substituição de Liskov e Segragação de Interfaces.
